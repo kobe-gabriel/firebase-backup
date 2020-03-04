@@ -1,6 +1,6 @@
 {
   "name": "firebase-backup-collections",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "license": "MIT",
   "keywords": [
@@ -9,9 +9,9 @@
     "backup"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/kobe-gabriel/firebase-backup"
-  },  
+    "type": "git",
+    "url": "https://github.com/kobe-gabriel/firebase-backup"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "firebase-admin": "^8.9.2",
